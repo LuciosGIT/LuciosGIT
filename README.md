@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Eu sou José Lúcio!👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Java;Estudante+de+Engenharia+da+Computação;Sempre+aprendendo+algo+novo!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Estudante+de+Engenharia+da+Computação;Sempre+aprendendo+algo+novo!">
 </p>
 
 ---
