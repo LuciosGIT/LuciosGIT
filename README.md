@@ -7,8 +7,8 @@
 ---
 
 ### 👨‍💻 Sobre mim:
-- 💼 Atualmente estou trabalhando em projetos **Java** e **Spring**.
-- 🌱 Estou me especializando em ambientes de infraestrutura e deploy como Docker e AWS.
+- 💼 Atualmente estou trabalhando em projetos **Java/Spring** e **Angular**.
+- 🌱 Estou me especializando em ambientes de infraestrutura e deploy como Kubernetes e AWS.
 - ⚡️ Gosto de explorar novas tecnologias e encontrar soluções eficientes.
 
 ---
@@ -17,8 +17,8 @@
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
