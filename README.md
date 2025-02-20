@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim:
+### 👨‍💻 Sobre mim  :
 - 💼 Atualmente estou trabalhando em projetos **Java/Spring** e **Angular**.
 - 🌱 Estou me especializando em ambientes de infraestrutura e deploy como Kubernetes e AWS.
 - ⚡️ Gosto de explorar novas tecnologias e encontrar soluções eficientes.
@@ -44,7 +44,7 @@
 
 ---
 
-### 📫 Onde me encontrar:
+### 📫 Onde me encontrar : 
 - [LinkedIn](https://linkedin.com/in/jluciojunior)
 - [Email](mailto:jlucioosjunior@gmail.com)
 
