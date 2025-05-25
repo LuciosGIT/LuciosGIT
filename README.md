@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 Sobre mim  :
-- 💼 Atualmente trabalhando projetos com **Machine Learning**, **Python** e me aprofundando em **Data Science** e **Deep Learning**.
+- 💼 Atualmente trabalhando em projetos com **Machine Learning**, **Python** e me aprofundando em **Data Science** e **Deep Learning**.
 - 🌱 Estudando ferramentas e plataformas como **AWS**, **Numpy**, **Pandas**, **Scikit-learn**, **TensorFlow** e **PyTorch**.
 - 🧠 Interessado em Inteligência Artificial aplicada a problemas do mundo real.
 - ⚡️ Gosto de explorar novas tecnologias e encontrar soluções eficientes e inteligentes.
