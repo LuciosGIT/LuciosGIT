@@ -1,7 +1,9 @@
 <h1 align="center">Olá, Eu sou José Lúcio!👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack+e+Entusiasta+em+IA;Estudante+de+Engenharia+da+Computação;Apaixonado+por+Machine+Learning+e+Data+Science!">
+  <img src="https://img.shields.io/badge/Entusiasta_em_IA-F75C7E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estudante_de-Engenharia_da_Computação-007ACC?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apaixonado_por-Machine_Learning_e_Data_Science-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
