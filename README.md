@@ -1,35 +1,34 @@
 <h1 align="center">Olá, Eu sou José Lúcio!👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Estudante+de+Engenharia+da+Computação;Sempre+aprendendo+algo+novo!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack+e+Entusiasta+em+IA;Estudante+de+Engenharia+da+Computação;Apaixonado+por+Machine+Learning+e+Data+Science!">
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim  :
-- 💼 Atualmente estou trabalhando em projetos **Java/Spring** e **Angular**.
-- 🌱 Estou me especializando em ambientes de infraestrutura e deploy como Kubernetes e AWS.
-- ⚡️ Gosto de explorar novas tecnologias e encontrar soluções eficientes.
+- 💼 Atualmente trabalhando projetos com **Machine Learning**, **Python** e me aprofundando em **Data Science** e **Deep Learning**.
+- 🌱 Estudando ferramentas e plataformas como **AWS**, **Numpy**, **Pandas**, **Scikit-learn**, **TensorFlow** e **PyTorch**.
+- 🧠 Interessado em Inteligência Artificial aplicada a problemas do mundo real.
+- ⚡️ Gosto de explorar novas tecnologias e encontrar soluções eficientes e inteligentes.
 
 ---
 
 ### 🛠️ Linguagens e Ferramentas :
 <div>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
-  <img src="https://img.shields.io/badge/Mockito-FFB86C?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
@@ -39,7 +38,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuciosGIT&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciosGIT&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciosGIT&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciosGIT&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas"/>
 </div>
 
 ---
@@ -50,4 +49,4 @@
 
 ---
 
-<p align="center">✨ Vamos colaborar e construir algo incrível! ✨</p>
+<p align="center">✨ Vamos colaborar e construir algo incrível com tecnologia e inteligência artificial! ✨</p>
