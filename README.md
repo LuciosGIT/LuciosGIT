@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Eu sou José Lúcio!👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Entusiasta_em_IA-F75C7E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entusiasta_em_LLM's-F75C7E?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Estudante_de-Engenharia_da_Computação-007ACC?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Apaixonado_por-Machine_Learning_e_Data_Science-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
 </p>
