@@ -38,11 +38,23 @@
 ---
 
 ### 📊 Estatísticas do GitHub :
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuciosGIT&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciosGIT&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciosGIT&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas"/>
+
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 320px); gap: 30px; justify-content: center;">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=LuciosGIT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="GitHub Stats" 
+    width="320" 
+    style="border-radius: 15px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciosGIT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+    alt="Linguagens mais usadas" 
+    width="320" 
+    style="border-radius: 15px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);" />
+
 </div>
+
 
 ---
 
